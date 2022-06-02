@@ -1,8 +1,8 @@
 # Personal Projects Gallery
 ### HTML, CSS | Not Responsive :<br />
-- [Homejam-template](https://github.com/Mohand2/personal-projects#homejam-template)
 - **[Homejam-template](#homejam-template)**<br>
-- [Hotel-template](https://github.com/Mohand2/personal-projects/#hotel-template)
+- **[Hotel-template](#hotel-template)**<br>
+
 
 # Homejam-template
 Homejam Template - HTML, CSS | Not Responsive. <br /><br />
@@ -22,8 +22,8 @@ Live demo: https://mohand2.github.io/Homejam-template
 <br />
 Github Repo: https://github.com/Mohand2/Homejam-template
 <br />
+**[Back to top](#Personal-Projects-Gallery)**<br>
 
-[Back to top](https://github.com/Mohand2/personal-projects/#Personal-Projects-Gallery)
 
 <br /><br />
 
@@ -43,6 +43,6 @@ Live demo: https://mohand2.github.io/Hotel-template
 Github Repo: https://github.com/Mohand2/Hotel-template
 <br />
 
-[Back to top](https://github.com/Mohand2/personal-projects/#Personal-Projects-Gallery)
+**[Back to top](#Personal-Projects-Gallery)**<br>
 
 <br /><br />
