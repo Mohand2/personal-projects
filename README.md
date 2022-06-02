@@ -1,6 +1,7 @@
 # Personal Projects Gallery
 ### HTML, CSS | Not Responsive :<br />
 - [Homejam-template](https://github.com/Mohand2/personal-projects#homejam-template)
+- **[Homejam-template](#homejam-template)**<br>
 - [Hotel-template](https://github.com/Mohand2/personal-projects/#hotel-template)
 
 # Homejam-template
