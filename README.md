@@ -5,10 +5,10 @@
 
 
 # Homejam-template
-Homejam Template - HTML, CSS | Not Responsive. <br /><br />
+Homejam Template - HTML, CSS. <br /><br />
 Preview :
 <br /><br />
-![Homejam Template - HTML, CSS | Not Responsive](https://github.com/Mohand2/Homejam-template/blob/main/screenshot/template-screenshot.gif)
+![Homejam Template - HTML, CSS | Responsive](https://github.com/Mohand2/Homejam-template/blob/main/screenshot/template-screenshot.gif)
 
 
 This template contains 4 sections:
