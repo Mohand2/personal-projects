@@ -1,5 +1,5 @@
 # Personal Projects Gallery
-### HTML, CSS | Not Responsive :<br />
+### HTML, CSS | Templates :<br />
 - **[Homejam-template](#homejam-template)**<br>
 - **[Hotel-template](#hotel-template)**<br>
 
