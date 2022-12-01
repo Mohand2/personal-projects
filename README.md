@@ -5,7 +5,7 @@
 
 
 # Homejam-template
-Homejam Template - HTML, CSS | Responsive. <br /><br />
+Homejam Template - HTML,CSS | Responsive. <br /><br />
 Preview :
 <br /><br />
 ![Homejam Template - HTML, CSS | Responsive](https://github.com/Mohand2/Homejam-template/blob/main/screenshot/template-screenshot.gif)
